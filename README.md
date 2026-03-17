@@ -446,7 +446,7 @@ The query vector generated from the input sentence was matched against pooled em
 
 ---
 
-# 📬 Suggested Next Step
+# 📬 Next Step
 
 For the next implementation stage, build:
 
